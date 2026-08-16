@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saumya\\Desktop\\.net-practicals\\PRACTICAL-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A3C4D-7C5E-4459-8F5F-3537315C25B9}|PRACTICAL-3\\PRACTICAL-3.csproj|c:\\users\\saumya\\desktop\\.net-practicals\\practical-3\\practical-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A3C4D-7C5E-4459-8F5F-3537315C25B9}|PRACTICAL-3\\PRACTICAL-3.csproj|solutionrelative:practical-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saumya\\Desktop\\.net-practicals\\PRACTICAL-3\\PRACTICAL-3\\Program.cs",
+              "RelativeDocumentMoniker": "PRACTICAL-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Saumya\\Desktop\\.net-practicals\\PRACTICAL-3\\PRACTICAL-3\\Program.cs",
+              "RelativeToolTip": "PRACTICAL-3\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T03:05:03.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
