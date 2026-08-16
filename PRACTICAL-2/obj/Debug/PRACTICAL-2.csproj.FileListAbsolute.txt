@@ -1,0 +1,7 @@
+C:\Users\Saumya\Desktop\.net-practicals\PRACTICAL-2\PRACTICAL-2\bin\Debug\PRACTICAL-2.exe.config
+C:\Users\Saumya\Desktop\.net-practicals\PRACTICAL-2\PRACTICAL-2\bin\Debug\PRACTICAL-2.exe
+C:\Users\Saumya\Desktop\.net-practicals\PRACTICAL-2\PRACTICAL-2\bin\Debug\PRACTICAL-2.pdb
+C:\Users\Saumya\Desktop\.net-practicals\PRACTICAL-2\PRACTICAL-2\obj\Debug\PRACTICAL-2.csproj.AssemblyReference.cache
+C:\Users\Saumya\Desktop\.net-practicals\PRACTICAL-2\PRACTICAL-2\obj\Debug\PRACTICAL-2.csproj.CoreCompileInputs.cache
+C:\Users\Saumya\Desktop\.net-practicals\PRACTICAL-2\PRACTICAL-2\obj\Debug\PRACTICAL-2.exe
+C:\Users\Saumya\Desktop\.net-practicals\PRACTICAL-2\PRACTICAL-2\obj\Debug\PRACTICAL-2.pdb
